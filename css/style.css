@@ -20,7 +20,7 @@ html {
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-feature-settings: normal;
   font-variation-settings: normal;
-  background-image: url(../assets/background.png);
+  background-image: url(https://leylance-task-1.netlify.app/assets/background.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -278,10 +278,10 @@ img {
   background-color: rgb(210 72 38 / var(--tw-bg-opacity));
 }
 .bg-bing {
-  background-image: url(../assets/Bing.jpg);
+  background-image: url(https://leylance-task-1.netlify.app/assets/Bing.jpg);
 }
 .bg-desktop {
-  background-image: url(../assets/Desktop.jpg);
+  background-image: url(https://leylance-task-1.netlify.app/assets/Desktop.jpg);
 }
 .bg-cover {
   background-size: cover;
